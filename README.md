@@ -14,7 +14,9 @@ Debian 7 64 bit เท่านั้น
 
 Debian7
 
-wget -O install.sh https://github.com/nsuuuuz1/Debian7/blob/master/install.sh?raw=true chmod +x install.sh ./install.sh
+wget -O install.sh https://github.com/nsuuuuz1/Debian7/blob/master/install.sh?raw=true 
+chmod +x install.sh 
+./install.sh
 
 Credit
 
